@@ -1,0 +1,13 @@
+{
+  "name": "排排 · 天津排球",
+  "short_name": "排排",
+  "description": "发现天津排球场地、参与活动、记录运动与认识球友。",
+  "start_url": "./#home",
+  "display": "standalone",
+  "background_color": "#eaf7f4",
+  "theme_color": "#f5d72f",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

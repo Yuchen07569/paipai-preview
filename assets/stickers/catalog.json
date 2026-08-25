@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedWith": "GPT Image built-in",
+  "sourcePolicy": "型号与配色经品牌官网或可检索商品页核验；贴纸为风格化重绘，不是官方商品图。",
+  "items": [
+    {"id":"mikasa-v200w","brand":"Mikasa","model":"V200W"},
+    {"id":"mikasa-v330w","brand":"Mikasa","model":"V330W"},
+    {"id":"mikasa-v200w-vnl","brand":"Mikasa","model":"V200W-VNL"},
+    {"id":"mikasa-bv550c","brand":"Mikasa","model":"BV550C"},
+    {"id":"molten-v5m5000","brand":"Molten","model":"V5M5000"},
+    {"id":"molten-v5m4500","brand":"Molten","model":"V5M4500"},
+    {"id":"molten-v5m4000","brand":"Molten","model":"V5M4000"},
+    {"id":"molten-v5m3500","brand":"Molten","model":"V5M3500"},
+    {"id":"lanhua-s11-green","brand":"Lanhua","model":"S11","colorway":"绿黄白"},
+    {"id":"lanhua-s11-blue","brand":"Lanhua","model":"S11","colorway":"蓝黄白"},
+    {"id":"lanhua-s11-red","brand":"Lanhua","model":"S11","colorway":"红白"},
+    {"id":"lanhua-mv518-ace1981","brand":"Lanhua","model":"MV518 / ACE1981","note":"公开商品图不足，暂以同类竞赛训练球外观表现"},
+    {"id":"mikasa-v200w-usa","brand":"Mikasa","model":"V200W-USA"},
+    {"id":"mikasa-v200w-usan","brand":"Mikasa","model":"V200W-USAN"},
+    {"id":"mikasa-v360w-lovb","brand":"Mikasa","model":"V360W-LOVB"},
+    {"id":"mikasa-v360w","brand":"Mikasa","model":"V360W"},
+    {"id":"mikasa-v300w-at","brand":"Mikasa","model":"V300W-AT"},
+    {"id":"mikasa-bv551e","brand":"Mikasa","model":"BV551E-WYBR"},
+    {"id":"mikasa-bv540e-aau","brand":"Mikasa","model":"BV540E-AAU"},
+    {"id":"mikasa-bv540e-usa","brand":"Mikasa","model":"BV540E-USA"},
+    {"id":"mikasa-bv543c-vxa-y","brand":"Mikasa","model":"BV543C-VXA-Y"},
+    {"id":"mikasa-bv535c-wyb-1","brand":"Mikasa","model":"BV535C-WYB-1"},
+    {"id":"mikasa-bv552c-f","brand":"Mikasa","model":"BV552C-F"},
+    {"id":"mikasa-bv552c-wybr","brand":"Mikasa","model":"BV552C-WYBR"}
+  ]
+}

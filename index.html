@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#f5d72f">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="排排">
+  <title>排排 · 天津排球</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./app-icon.png" type="image/png">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="./styles.css?v=6">
+  <link rel="stylesheet" href="./night.css?v=17">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="app-header">
+      <a class="brand" href="#home" aria-label="返回排排首页">
+        <span class="brand-mark">排</span>
+        <span><strong>排排</strong><small id="page-subtitle">天津排球</small></span>
+      </a>
+      <span class="demo-badge">天津 · 排球</span>
+    </header>
+
+    <main id="app" aria-live="polite"></main>
+
+    <nav class="bottom-nav" aria-label="主导航" id="bottom-nav"></nav>
+  </div>
+
+  <div class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://mcp.figma.com/mcp/html-to-design/capture.js" async></script>
+  <script type="module" src="./product.mjs?v=18"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+assets/app.test.htm
+assets/app.test_files/
+assets/app-icon-source.png
+qa-*.png
+assets/generated/*.png
+assets/stickers/volleyball-sticker-sheet-*.png
+app-icon.svg
+.DS_Store
